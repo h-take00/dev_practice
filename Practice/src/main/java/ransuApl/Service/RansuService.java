@@ -10,7 +10,7 @@ import java.util.Random;
  *
  */
 
-public class ransuService{
+public class RansuService{
 
 	public static void main(String[] args) {
 		/**
@@ -41,7 +41,7 @@ public class ransuService{
 			
 			//for文で回す
 			//乱数設定(コートグループの採番)
-			
+				
 			
 			//if文で対象のコートグループが割り当て済みならbreakする。
 			for(int y=0;y <size;y++) {
